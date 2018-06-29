@@ -1,4 +1,4 @@
-package cn.itheima.domain;
+package demo01;
 
 public class Customer {	
 	private int id;

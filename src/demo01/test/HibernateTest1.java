@@ -1,4 +1,4 @@
-package cn.itheima.test;
+package demo01.test;
 
 import java.util.List;
 
@@ -7,7 +7,7 @@ import org.hibernate.SessionFactory;
 import org.hibernate.cfg.Configuration;
 import org.hibernate.query.Query;
 
-import cn.itheima.domain.Customer;
+import demo01.*;
 
 public class HibernateTest1 {
 	
