@@ -20,5 +20,14 @@
 
         <!-- 配置hibernate的映射文件所在的位置 -->
         <mapping resource="demo01/Customer.hbm.xml" />
+        
+        <mapping resource="demo02/Classroom.hbm.xml" />
+        
+        <mapping resource="demo02/Students.hbm.xml" />
+        
+        <mapping resource="demo03/Student.hbm.xml" />
+        
+        <mapping resource="demo03/Course.hbm.xml" />
+        
     </session-factory>
 </hibernate-configuration>
